@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(picture.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.roy{
+    display: inline-block;
+    text-align: center;
+   
+    
+
+}
